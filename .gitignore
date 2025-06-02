@@ -1,2 +1,5 @@
 model_save/
 data/hate-dataset.csv
+data/cont_train.csv
+data/test.csv
+model_adapter/
