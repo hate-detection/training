@@ -5,7 +5,7 @@ Fine tuning BERT-based model [MuRIL](https://huggingface.co/google/muril-base-ca
 > [!IMPORTANT]
 > Train and Test data is not included with the repo due to Data Usage restrictions by the Dataset Authors.
 >
-> The current `training.py` only includes code for full MuRIL model training. Jupyter Notebooks for LoRA Adapter training is currently under-development and will be added at a later date.
+> The notebook [`muril-fine-tuning.ipynb`](https://github.com/hate-detection/training/blob/master/muril-fine-tuning.ipynb) only includes code for full MuRIL model training. Jupyter Notebooks for LoRA Adapter training is currently under-development and will be added at a later date.
 
 ### Hyperparameters:
 ```python
